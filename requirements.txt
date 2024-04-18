@@ -1,0 +1,11 @@
+cryptography
+fastapi
+sqlalchemy==1.4.0
+pydantic
+python-jose
+passlib
+uvicorn
+PyMySQL
+tmdbv3api
+typing
+tensorflow==2.15.0
